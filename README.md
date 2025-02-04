@@ -1,0 +1,2 @@
+# deepseek-vscode-extension
+test
